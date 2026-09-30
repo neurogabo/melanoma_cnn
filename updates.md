@@ -2,7 +2,7 @@
 
 Repositorio: [neurogabo/melanoma_cnn](https://github.com/neurogabo/melanoma_cnn). Público. Rama predeterminada: `main`.
 
-Revisión inicial del **2026-09-28 06:24:07 America/Mexico_City (UTC−06:00)**. Cobertura **completa**. No existe un informe anterior ni un intervalo previo verificable; este documento establece el panorama inicial. La fecha de revisión y el commit automático del informe son distintos de la fecha del último cambio sustantivo.
+**Revisión del 2026-09-30 06:04:55, America/Mexico_City: no hubo actualizaciones**. Cobertura **completa** del intervalo desde 2026-09-28 06:24:07 America/Mexico_City. Se conserva el último resumen sustantivo y sus pendientes. La publicación anterior, que solo modificó updates.md, se excluye como novedad.
 
 ## Estado actual y punto para retomar
 
@@ -12,11 +12,13 @@ Repositorio público de código de investigación para clasificación de imágen
 
 ## Cambios integrados y trabajo en otras ramas
 
+El contraste del intervalo no añade cambios sustantivos. El resumen siguiente describe el estado conservado de la revisión anterior.
+
 **En `main`:** La única importación versionada conserva algoritmo.py y utilidades para mover y separar imágenes. No se localizaron resultados independientes ni CI que permitan afirmar rendimiento o validez clínica.
 
 Solo se encontró una rama remota en el repositorio.
 
-**Último cambio sustantivo de Git verificado:** 2025-04-04 16:44:14 America/Mexico_City (UTC−06:00); [339bd844f1](https://github.com/neurogabo/melanoma_cnn/commit/339bd844f1113694fb539457ec5d432159b4b353), «Add files via upload»; punta de `main`. Este criterio usa fecha de commit y cambios reales de archivos, no la fecha pushed_at del repositorio.
+**Último cambio sustantivo de Git verificado:** 2025-04-04 16:44:14 America/Mexico_City (UTC−06:00); [339bd844f1](https://github.com/neurogabo/melanoma_cnn/commit/339bd844f1113694fb539457ec5d432159b4b353), «Add files via upload»; cambio sustantivo documentado en `main`. Este criterio usa fecha de commit y cambios reales de archivos, no la fecha pushed_at del repositorio.
 
 ## Pendientes y bloqueos documentados
 
@@ -32,7 +34,7 @@ No se encontraron ejecuciones de GitHub Actions en la respuesta consultada. No s
 
 ## Evidencia y alcance
 
-Se comprobaron 1 ramas remotas, el árbol de la rama predeterminada, los 1 commits más recientes de esa rama y 1 detalles de commit con sus archivos/diffs disponibles. Se compararon las ramas alternativas y se consultaron 3 fuentes de texto para propósito, estado y pendientes. La lectura inicial sintetiza el estado vigente; no es una auditoría de seguridad línea por línea ni una reproducción de todos los resultados históricos.
+Se enumeraron de nuevo 1 ramas remotas y se contrastaron sus puntas con la última revisión completa. Se leyeron updates.md antes de la revisión, las instrucciones aplicables y 0 fuentes de texto pertinentes. Se inspeccionaron el diff real de 1 commit del intervalo: 1 modifica exclusivamente updates.md. Se paginaron PR, issues y releases, y se comprobaron las ejecuciones recientes de Actions y el intervalo desde el corte anterior. Se conservaron los datos de fuentes históricas cuyo contenido permanece anclado por su SHA. No se ejecutaron pruebas, aplicaciones ni despliegues.
 
 Las afirmaciones de validación, despliegue o actividad externa conservan el alcance y la fecha de su fuente. Esta revisión no accedió a datos operativos ajenos a GitHub ni certificó servicios vivos, hardware o resultados clínicos. La desaparición de un pendiente en un documento no se considera prueba de cierre.
 
@@ -42,11 +44,11 @@ Las afirmaciones de validación, despliegue o actividad externa conservan el alc
 <details>
 <summary>Referencias de todas las ramas al revisar</summary>
 
-| Rama | Commit auditado | Relación con la rama predeterminada |
-| --- | --- | --- |
-| `main` | [339bd844f1](https://github.com/neurogabo/melanoma_cnn/tree/339bd844f1113694fb539457ec5d432159b4b353) | Predeterminada |
+| Rama | Commit auditado |
+| --- | --- |
+| `main` (predeterminada) | [65638724d0](https://github.com/neurogabo/melanoma_cnn/tree/65638724d0051fa2933bc5a51ac0715a8ef4f7e5) |
 
-Los contadores describen el grafo Git; un squash puede dejar commits por delante cuyo contenido ya se integró.
+El commit anterior del informe se incluye como referencia observada, pero no cambia la fecha del último cambio sustantivo. Los resúmenes de ramas conservan su distinción entre trabajo integrado y pendiente.
 
 </details>
 
@@ -55,19 +57,19 @@ Los contadores describen el grafo Git; un squash puede dejar commits por delante
   "schema": "neurogabo-updates/v1",
   "owner": "neurogabo",
   "repo": "melanoma_cnn",
-  "reviewed_at": "2026-09-28T12:24:07.386Z",
+  "reviewed_at": "2026-09-30T12:04:55.775Z",
   "timezone": "America/Mexico_City",
   "coverage": "completa",
-  "initial": true,
-  "last_complete_review_at": "2026-09-28T12:24:07.386Z",
+  "initial": false,
+  "last_complete_review_at": "2026-09-30T12:04:55.775Z",
   "last_complete_refs": {
-    "main": "339bd844f1113694fb539457ec5d432159b4b353"
+    "main": "65638724d0051fa2933bc5a51ac0715a8ef4f7e5"
   },
   "observed_refs": {
-    "main": "339bd844f1113694fb539457ec5d432159b4b353"
+    "main": "65638724d0051fa2933bc5a51ac0715a8ef4f7e5"
   },
   "default_branch": "main",
-  "audited_default_sha": "339bd844f1113694fb539457ec5d432159b4b353",
+  "audited_default_sha": "65638724d0051fa2933bc5a51ac0715a8ef4f7e5",
   "last_substantive_commit": "339bd844f1113694fb539457ec5d432159b4b353",
   "last_substantive_commit_at": "2025-04-04T22:44:14Z",
   "events": {
@@ -76,6 +78,10 @@ Los contadores describen el grafo Git; un squash puede dejar commits por delante
     "releases": [],
     "workflow_runs": []
   },
-  "ignore_report_only_commits": true
+  "ignore_report_only_commits": true,
+  "interval_from": "2026-09-28T12:24:07.386Z",
+  "report_only_commits_excluded": [
+    "65638724d0051fa2933bc5a51ac0715a8ef4f7e5"
+  ]
 }
 -->
