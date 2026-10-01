@@ -2,7 +2,7 @@
 
 Repositorio: [neurogabo/melanoma_cnn](https://github.com/neurogabo/melanoma_cnn). Público. Rama predeterminada: `main`.
 
-**Revisión del 2026-09-30 06:04:55, America/Mexico_City: no hubo actualizaciones**. Cobertura **completa** del intervalo desde 2026-09-28 06:24:07 America/Mexico_City. Se conserva el último resumen sustantivo y sus pendientes. La publicación anterior, que solo modificó updates.md, se excluye como novedad.
+**Revisión del 2026-10-01 06:02:32, America/Mexico_City: no hubo actualizaciones**. Cobertura **completa** del intervalo desde 2026-09-30 06:04:55 America/Mexico_City. Se conserva el último resumen sustantivo y sus pendientes. La publicación anterior, que solo modificó updates.md, se excluye como novedad.
 
 ## Estado actual y punto para retomar
 
@@ -34,7 +34,7 @@ No se encontraron ejecuciones de GitHub Actions en la respuesta consultada. No s
 
 ## Evidencia y alcance
 
-Se enumeraron de nuevo 1 ramas remotas y se contrastaron sus puntas con la última revisión completa. Se leyeron updates.md antes de la revisión, las instrucciones aplicables y 0 fuentes de texto pertinentes. Se inspeccionaron el diff real de 1 commit del intervalo: 1 modifica exclusivamente updates.md. Se paginaron PR, issues y releases, y se comprobaron las ejecuciones recientes de Actions y el intervalo desde el corte anterior. Se conservaron los datos de fuentes históricas cuyo contenido permanece anclado por su SHA. No se ejecutaron pruebas, aplicaciones ni despliegues.
+Se enumeró de nuevo 1 rama remota y se contrastaron sus puntas con la última revisión completa. Se leyeron updates.md antes de la revisión, las instrucciones aplicables y 0 fuentes de texto pertinentes. Se inspeccionó el diff real de 1 commit del intervalo: 1 modifica exclusivamente updates.md. Se paginaron PR, issues y releases, y se comprobaron las ejecuciones recientes de Actions y el intervalo desde el corte anterior. Se conservaron los datos de fuentes históricas cuyo contenido permanece anclado por su SHA. No se ejecutaron pruebas, aplicaciones ni despliegues.
 
 Las afirmaciones de validación, despliegue o actividad externa conservan el alcance y la fecha de su fuente. Esta revisión no accedió a datos operativos ajenos a GitHub ni certificó servicios vivos, hardware o resultados clínicos. La desaparición de un pendiente en un documento no se considera prueba de cierre.
 
@@ -46,7 +46,7 @@ Las afirmaciones de validación, despliegue o actividad externa conservan el alc
 
 | Rama | Commit auditado |
 | --- | --- |
-| `main` (predeterminada) | [65638724d0](https://github.com/neurogabo/melanoma_cnn/tree/65638724d0051fa2933bc5a51ac0715a8ef4f7e5) |
+| `main` (predeterminada) | [bc3994da7d](https://github.com/neurogabo/melanoma_cnn/tree/bc3994da7d22f4b19e55065104f43be8cfa08c22) |
 
 El commit anterior del informe se incluye como referencia observada, pero no cambia la fecha del último cambio sustantivo. Los resúmenes de ramas conservan su distinción entre trabajo integrado y pendiente.
 
@@ -57,19 +57,19 @@ El commit anterior del informe se incluye como referencia observada, pero no cam
   "schema": "neurogabo-updates/v1",
   "owner": "neurogabo",
   "repo": "melanoma_cnn",
-  "reviewed_at": "2026-09-30T12:04:55.775Z",
+  "reviewed_at": "2026-10-01T12:02:32.849Z",
   "timezone": "America/Mexico_City",
   "coverage": "completa",
   "initial": false,
-  "last_complete_review_at": "2026-09-30T12:04:55.775Z",
+  "last_complete_review_at": "2026-10-01T12:02:32.849Z",
   "last_complete_refs": {
-    "main": "65638724d0051fa2933bc5a51ac0715a8ef4f7e5"
+    "main": "bc3994da7d22f4b19e55065104f43be8cfa08c22"
   },
   "observed_refs": {
-    "main": "65638724d0051fa2933bc5a51ac0715a8ef4f7e5"
+    "main": "bc3994da7d22f4b19e55065104f43be8cfa08c22"
   },
   "default_branch": "main",
-  "audited_default_sha": "65638724d0051fa2933bc5a51ac0715a8ef4f7e5",
+  "audited_default_sha": "bc3994da7d22f4b19e55065104f43be8cfa08c22",
   "last_substantive_commit": "339bd844f1113694fb539457ec5d432159b4b353",
   "last_substantive_commit_at": "2025-04-04T22:44:14Z",
   "events": {
@@ -79,9 +79,9 @@ El commit anterior del informe se incluye como referencia observada, pero no cam
     "workflow_runs": []
   },
   "ignore_report_only_commits": true,
-  "interval_from": "2026-09-28T12:24:07.386Z",
+  "interval_from": "2026-09-30T12:04:55.775Z",
   "report_only_commits_excluded": [
-    "65638724d0051fa2933bc5a51ac0715a8ef4f7e5"
+    "bc3994da7d22f4b19e55065104f43be8cfa08c22"
   ]
 }
 -->
