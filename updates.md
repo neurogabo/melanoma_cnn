@@ -2,7 +2,7 @@
 
 Repositorio: [neurogabo/melanoma_cnn](https://github.com/neurogabo/melanoma_cnn). Público. Rama predeterminada: `main`.
 
-**Revisión del 2026-10-09 06:02:48, America/Mexico_City: no hubo actualizaciones**. Cobertura **completa** del intervalo desde 2026-10-08 06:01:56 America/Mexico_City. Se conserva el último resumen sustantivo y sus pendientes. La publicación anterior, que solo modificó updates.md, se excluye como novedad.
+**Revisión del 2026-10-10 06:05:26, America/Mexico_City: no hubo actualizaciones**. Cobertura **completa** del intervalo desde 2026-10-09 06:02:48 America/Mexico_City. Se conserva el último resumen sustantivo y sus pendientes. La publicación anterior, que solo modificó updates.md, se excluye como novedad.
 
 ## Estado actual y punto para retomar
 
@@ -26,6 +26,8 @@ Solo se encontró una rama remota en el repositorio.
 
 ## PR, issues y comprobaciones
 
+Desde el corte anterior no se detectaron cambios en PR, issues o releases, ni novedades en las comprobaciones consultadas. Los resultados fechados que siguen se conservan como antecedentes.
+
 Se enumeraron con paginación 0 PR (0 abiertos, 0 integrados y 0 cerrados sin integración) y 0 issues (0 abiertos).
 
 No se encontraron releases publicadas en la respuesta de GitHub.
@@ -46,7 +48,7 @@ Las afirmaciones de validación, despliegue o actividad externa conservan el alc
 
 | Rama | Commit auditado |
 | --- | --- |
-| `main` (predeterminada) | [afdb5c95de](https://github.com/neurogabo/melanoma_cnn/tree/afdb5c95de47be25319fc8440ef3424c528ea238) |
+| `main` (predeterminada) | [8093142780](https://github.com/neurogabo/melanoma_cnn/tree/80931427800a8abbf394e7f615310197d068f50a) |
 
 El commit anterior del informe se incluye como referencia observada, pero no cambia la fecha del último cambio sustantivo. Los resúmenes de ramas conservan su distinción entre trabajo integrado y pendiente.
 
@@ -57,19 +59,19 @@ El commit anterior del informe se incluye como referencia observada, pero no cam
   "schema": "neurogabo-updates/v1",
   "owner": "neurogabo",
   "repo": "melanoma_cnn",
-  "reviewed_at": "2026-10-09T12:02:48.429Z",
+  "reviewed_at": "2026-10-10T12:05:26.381Z",
   "timezone": "America/Mexico_City",
   "coverage": "completa",
   "initial": false,
-  "last_complete_review_at": "2026-10-09T12:02:48.429Z",
+  "last_complete_review_at": "2026-10-10T12:05:26.381Z",
   "last_complete_refs": {
-    "main": "afdb5c95de47be25319fc8440ef3424c528ea238"
+    "main": "80931427800a8abbf394e7f615310197d068f50a"
   },
   "observed_refs": {
-    "main": "afdb5c95de47be25319fc8440ef3424c528ea238"
+    "main": "80931427800a8abbf394e7f615310197d068f50a"
   },
   "default_branch": "main",
-  "audited_default_sha": "afdb5c95de47be25319fc8440ef3424c528ea238",
+  "audited_default_sha": "80931427800a8abbf394e7f615310197d068f50a",
   "last_substantive_commit": "339bd844f1113694fb539457ec5d432159b4b353",
   "last_substantive_commit_at": "2025-04-04T22:44:14Z",
   "events": {
@@ -79,9 +81,9 @@ El commit anterior del informe se incluye como referencia observada, pero no cam
     "workflow_runs": []
   },
   "ignore_report_only_commits": true,
-  "interval_from": "2026-10-08T12:01:56.255Z",
+  "interval_from": "2026-10-09T12:02:48.429Z",
   "report_only_commits_excluded": [
-    "afdb5c95de47be25319fc8440ef3424c528ea238"
+    "80931427800a8abbf394e7f615310197d068f50a"
   ]
 }
 -->
