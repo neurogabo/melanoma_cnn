@@ -2,7 +2,7 @@
 
 Repositorio: [neurogabo/melanoma_cnn](https://github.com/neurogabo/melanoma_cnn). Público. Rama predeterminada: `main`.
 
-**Revisión del 2026-10-23 06:00:11, America/Mexico_City: no hubo actualizaciones**. Cobertura **completa** del intervalo desde 2026-10-22 06:06:03 America/Mexico_City. Se conserva el último resumen sustantivo y sus pendientes. La publicación anterior, que solo modificó updates.md, se excluye como novedad.
+**Revisión del 2026-10-24 06:05:19, America/Mexico_City: no hubo actualizaciones**. Cobertura **completa** del intervalo desde 2026-10-23 06:00:11 America/Mexico_City. Se conserva el último resumen sustantivo y sus pendientes. La publicación anterior, que solo modificó updates.md, se excluye como novedad.
 
 ## Estado actual y punto para retomar
 
@@ -48,7 +48,7 @@ Las afirmaciones de validación, despliegue o actividad externa conservan el alc
 
 | Rama | Commit auditado |
 | --- | --- |
-| `main` (predeterminada) | [fb6c17a2b3](https://github.com/neurogabo/melanoma_cnn/tree/fb6c17a2b3044826708e4532a0859f3f6d6d407e) |
+| `main` (predeterminada) | [a829491f1e](https://github.com/neurogabo/melanoma_cnn/tree/a829491f1e39ad67e2af430ce5b468d042cf5716) |
 
 El commit anterior del informe se incluye como referencia observada, pero no cambia la fecha del último cambio sustantivo. Los resúmenes de ramas conservan su distinción entre trabajo integrado y pendiente.
 
@@ -59,19 +59,19 @@ El commit anterior del informe se incluye como referencia observada, pero no cam
   "schema": "neurogabo-updates/v1",
   "owner": "neurogabo",
   "repo": "melanoma_cnn",
-  "reviewed_at": "2026-10-23T12:00:11.770Z",
+  "reviewed_at": "2026-10-24T12:05:19.819Z",
   "timezone": "America/Mexico_City",
   "coverage": "completa",
   "initial": false,
-  "last_complete_review_at": "2026-10-23T12:00:11.770Z",
+  "last_complete_review_at": "2026-10-24T12:05:19.819Z",
   "last_complete_refs": {
-    "main": "fb6c17a2b3044826708e4532a0859f3f6d6d407e"
+    "main": "a829491f1e39ad67e2af430ce5b468d042cf5716"
   },
   "observed_refs": {
-    "main": "fb6c17a2b3044826708e4532a0859f3f6d6d407e"
+    "main": "a829491f1e39ad67e2af430ce5b468d042cf5716"
   },
   "default_branch": "main",
-  "audited_default_sha": "fb6c17a2b3044826708e4532a0859f3f6d6d407e",
+  "audited_default_sha": "a829491f1e39ad67e2af430ce5b468d042cf5716",
   "last_substantive_commit": "339bd844f1113694fb539457ec5d432159b4b353",
   "last_substantive_commit_at": "2025-04-04T22:44:14Z",
   "events": {
@@ -81,9 +81,9 @@ El commit anterior del informe se incluye como referencia observada, pero no cam
     "workflow_runs": []
   },
   "ignore_report_only_commits": true,
-  "interval_from": "2026-10-22T12:06:03.819Z",
+  "interval_from": "2026-10-23T12:00:11.770Z",
   "report_only_commits_excluded": [
-    "fb6c17a2b3044826708e4532a0859f3f6d6d407e"
+    "a829491f1e39ad67e2af430ce5b468d042cf5716"
   ]
 }
 -->
